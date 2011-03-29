@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, FragmentTestActivity!</string>
+    <string name="app_name">FragmentTest</string>
+    <string-array name="magz_titles">
+    	<item>Electronics For You</item>
+    	<item>Linux For You</item>
+    	<item>Facts For You</item>
+    </string-array>
+</resources>
