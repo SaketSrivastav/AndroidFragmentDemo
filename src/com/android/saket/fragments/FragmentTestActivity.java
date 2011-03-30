@@ -21,9 +21,9 @@ public class FragmentTestActivity extends FragmentActivity implements OnItemClic
         
         ListView l = (ListView) findViewById(R.id.number_list);
         ArrayAdapter<String> magzTitles = new ArrayAdapter<String>(getApplicationContext(),
-        		android.R.layout.simple_list_item_1, new String[]{"Electrnics For You", 
-        															"Linux For You", 
-        															"Facts For you"});
+        		android.R.layout.simple_list_item_1, new String[]{"Electronics For You", 
+        											"Linux For You", 
+        											"Facts For you"});
         l.setAdapter(magzTitles);
         l.setOnItemClickListener(this);
     }
