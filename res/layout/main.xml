@@ -10,7 +10,7 @@
             android:layout_width="150dp"
             android:layout_height="match_parent" />
 
-    <fragment class="com.example.fragmenttest.TestFragment"
+    <fragment class="com.android.saket.fragments.TestFragment"
     		android:id="@+id/the_frag" 
     		android:layout_width="match_parent"
     		android:layout_height="match_parent" />
